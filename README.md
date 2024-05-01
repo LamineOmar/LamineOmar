@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW4yNXZ2NDNsZjJ4ZzhpZjU1YTZvbnJmYjVldXhiNnZyaGVtOHhueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" width="400"/>
@@ -25,6 +24,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 --
+
 ## About me :
 
 - :telescope: I am currently pursuing a Master's degree in Data Science at the University Cadi Ayyad..
@@ -33,6 +33,5 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   
 - :zap: In my free time,  I read tech articles and research new technologies in my field..
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/omarlamine/?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/omarlamine/))
  
