@@ -24,11 +24,15 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+--
+## About me :
 
-- :telescope: I’m working as a data scientist and contributing to frontend and backend for building web applications.
+- :telescope: I am currently pursuing a Master's degree in Data Science at the University Cadi Ayyad..
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling:  I am very interested in AI and machine learning.
+  
+- :zap: In my free time,  I read tech articles and research new technologies in my field..
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/omarlamine/?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+ 
