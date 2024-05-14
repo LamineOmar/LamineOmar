@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW4yNXZ2NDNsZjJ4ZzhpZjU1YTZvbnJmYjVldXhiNnZyaGVtOHhueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW4yNXZ2NDNsZjJ4ZzhpZjU1YTZvbnJmYjVldXhiNnZyaGVtOHhueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" width="600"/>
 </div>
 
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-### I am a Data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
+### I am a Data scientist **<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
 
 - :telescope: I am currently pursuing a Master's degree in Data Science at the University Cadi Ayyad..
 
